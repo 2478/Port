@@ -355,6 +355,21 @@ img{
   border-radius: .5rem;
 }
 
+.skills__java{
+  width: 75%;
+}
+.skills__python{
+  width: 60%;
+}
+.skills__mysql{
+  width: 75%;
+}
+.skills__c{
+  width:60%;
+}
+.bp{
+  color:red;
+}
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
